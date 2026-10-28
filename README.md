@@ -2,7 +2,7 @@
 
 Official website for **Mio AI Keyboard** — the fast, private, and intelligent Android keyboard.
 
-**Live Site:** https://awtmods.github.io/Mio-AI-Keyboard-Website/
+**Live Site:** https://mio-ai-keyboard-website.vercel.app/
 
 ## Pages
 
@@ -40,3 +40,4 @@ Enable GitHub Pages in: **Settings → Pages → Source: main branch → / (root
 - Telegram: https://t.me/awtmods
 
 © 2026 Aadith C V. All rights reserved.
+
